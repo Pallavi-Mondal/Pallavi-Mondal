@@ -1,4 +1,4 @@
-
+## Hi there  [![Hi](https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif)](https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif)
  I'm an aspiring Data Scientist!! Experienced in Vendor Management in Amazon. Currently, I spend most of time coding, learning all the aspects of Data Science project and building my repository
 
 [![GIF](https://github.com/coldperformer/coldperformer/raw/master/gifs/developer.gif)](https://github.com/coldperformer/coldperformer/blob/master/gifs/developer.gif)
