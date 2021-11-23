@@ -1,3 +1,4 @@
+
  I'm an aspiring Data Scientist!! Experienced in Vendor Management in Amazon. Currently, I spend most of time coding, learning all the aspects of Data Science project and building my repository
 
 [![GIF](https://github.com/coldperformer/coldperformer/raw/master/gifs/developer.gif)](https://github.com/coldperformer/coldperformer/blob/master/gifs/developer.gif)
@@ -14,7 +15,7 @@
 
 ### [](https://github.com/coldperformer/coldperformer#connect-with-me)**Connect With Me**:
 
-[![GMail](https://github.com/coldperformer/coldperformer/raw/master/social/gmail.svg)](https://github.com/coldperformer/coldperformer/blob/master/pallavi.mondal2019@gmail.com)
+
 
 
 
@@ -31,5 +32,5 @@
 [![Python](https://github.com/coldperformer/coldperformer/raw/master/tools-&-languages/python.svg)](https://docs.python.org/3/)
 
 [
-[![GitHub](https://github.com/coldperformer/coldperformer/raw/master/tools-&-languages/github.svg)](https://docs.github.com/en)
+[![GitHub](https://github.com/coldperformer/coldperformer/raw/master/tools-&-languages/github.svg)]](https://docs.github.com/en)
 
