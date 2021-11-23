@@ -18,7 +18,7 @@
 
 ### **Connect With Me**:
 
-  ![enter image description here](https://cdn-icons-png.flaticon.com/512/174/174857.png)[](https://www.linkedin.com/in/pallavi-mondal-66b59b5b/https://www.linkedin.com/in/pallavi-mondal-66b59b5b/)
+[linkedIn](https://www.linkedin.com/in/pallavi-mondal-66b59b5b/)
 
 ### [](https://github.com/coldperformer/coldperformer#languages-and-tools)**Languages and Tools**:
 
