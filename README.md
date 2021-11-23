@@ -32,5 +32,5 @@
 [![Python](https://github.com/coldperformer/coldperformer/raw/master/tools-&-languages/python.svg)](https://docs.python.org/3/)
 
 [
-[![GitHub](https://github.com/coldperformer/coldperformer/raw/master/tools-&-languages/github.svg)]](https://docs.github.com/en)
+![GitHub](https://github.com/coldperformer/coldperformer/raw/master/tools-&-languages/github.svg)](https://docs.github.com/en)
 
