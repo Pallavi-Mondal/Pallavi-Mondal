@@ -4,7 +4,7 @@
 
 [![GIF](https://github.com/coldperformer/coldperformer/raw/master/gifs/developer.gif)](https://github.com/coldperformer/coldperformer/blob/master/gifs/developer.gif)
 
--   🔭  Currently persuing certification from  **[INSAID](https://www.insaid.co/)**.
+-   🔭  Currently persuing certification in Data Science from  **[INSAID](https://www.insaid.co/)**.
     
 -   🌱  Learning almost everything in Data Science.
     
