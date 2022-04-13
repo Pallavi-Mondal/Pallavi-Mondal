@@ -4,7 +4,7 @@
 
 [![GIF](https://github.com/coldperformer/coldperformer/raw/master/gifs/developer.gif)](https://github.com/coldperformer/coldperformer/blob/master/gifs/developer.gif)
 
--   🔭  Currently persuing certification in Data Science from  **[INSAID](https://www.insaid.co/)**.
+-   🔭  Currently pursuing certification in Data Science from  **[INSAID](https://www.insaid.co/)**.
     
 -   🌱  Learning almost everything in Data Science.
     
@@ -24,5 +24,6 @@
 
 [![Python](https://github.com/coldperformer/coldperformer/raw/master/tools-&-languages/python.svg)](https://docs.python.org/3/)
 
+![enter image description here](http://www.palentino.es/blog/wp-content/uploads/2015/12/Mysql-workbench.jpg)
 
 
